@@ -20,8 +20,12 @@
 
 *(RIP VISRUS)*
 
+[Download Trolltool V3.0-Pre](https://github.com/Frr0nt/Trolltool/releases/tag/V3.0-Pre-Revision_A)
+
 **Trolltool 1.0 and 1.1 features:**
 - pc crash simulator 2023, crashes your computer
 - visrus, requires windows 10 (or 11) pro, a "virus" that spams "visrus" popups on every computer in your network
 - shutdown, shuts down your computer in 1 minute
+
+[Download Trolltool V1.1](https://github.com/Frr0nt/Trolltool/releases/tag/1.1)
 

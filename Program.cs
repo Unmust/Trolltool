@@ -33,7 +33,7 @@ else
     Console.WriteLine("Press [4] for calculator"); //Done
     Console.WriteLine("Press [5] for cmd"); //Done
     Console.WriteLine("Press [6] for credits"); //Done
-    if (Console.ReadKey(true).Key == ConsoleKey.D1) //pc crash simulator 2024, NOT DONE
+    if (Console.ReadKey(true).Key == ConsoleKey.D1) //pc crash simulator 2024, DONE
     {
         Console.Title = "Trolltool - pc crash simulator 2024";
         Console.Clear();

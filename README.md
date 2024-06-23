@@ -4,6 +4,8 @@
 
 **Trolltool** is a easy to download and setup trolling tool, written in C# (Well the beta is written in C#)!
 
+If you are looking for the wiki, it's here: [Wiki](https://github.com/Frr0nt/Trolltool/wiki)
+
 > [!Warning]
 > **Trolltool 3.0** is in it's beta state, expect bugs and glitches!
 >

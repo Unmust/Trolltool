@@ -1,3 +1,6 @@
+> [!Warning]
+> Trolltool is discontinued, it's replacement, TrollExecutor is better to use from now on. [Download TrollExecutor here](https://github.com/Unmust/TrollExecutor)
+>
 ![trolltool](https://github.com/Frr0nt/Trolltool/assets/116831251/ab974a2f-7d14-41c0-9f24-95d30d864364)
 
 # Trolltool - Your local trolling tool!
